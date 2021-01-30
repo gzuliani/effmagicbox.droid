@@ -1,2 +1,4 @@
-# effmagicbox.droid
-Android App for the EFF Magic Box
+# EFF Magic Box App
+
+Android App for the EFF Magic Box.
+

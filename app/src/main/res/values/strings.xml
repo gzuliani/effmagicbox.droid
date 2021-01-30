@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EFF Magic Box</string>
+    <string name="select_device">Select device</string>
+    <string name="select_device_hint">Select a device from the list below. If you cannot find it, ensure that it has already been paired with this device.</string>
+    <string name="device_list_title">Paired devices:</string>
+    <string name="bluetooth_switch_on">Switch bluetooth on</string>
+    <string name="bluetooth_switch_off">Switch bluetooth off</string>
+    <string name="reload_device_list">Reload</string>
+    <string name="control_device">Control device</string>
+    <string name="device_address" />
+    <string name="device_connected">Status: connected.</string>
+    <string name="device_connecting">Status: connecting...</string>
+    <string name="device_disconnected">Status: not connected.</string>
+    <string name="device_error">Status: error "%1$s".</string>
+    <string name="device_id">Device: %1$s (%2$s)</string>
+    <string name="device_status_read">Status: connected, mode: read.</string>
+    <string name="device_status_write">Status: connected, mode: write.</string>
+    <string name="device_status_unknown">Status: connected, mode: unknown.</string>
+    <string name="button_connect_connect">Connect</string>
+    <string name="button_connect_disconnect">Disconnect</string>
+    <string name="left_turn">Left turn indicator</string>
+    <string name="right_turn">Right turn indicator</string>
+    <string name="left_parking">Left parking light</string>
+    <string name="right_parking">Right parking light</string>
+    <string name="brakes">Brakes light</string>
+    <string name="rear_fog">Rear fog light</string>
+    <string name="reverse_gear">Reverse gear light</string>
+    <string name="battery">Battery</string>
+</resources>
